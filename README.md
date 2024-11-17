@@ -2,7 +2,7 @@
 MAGES-SINGAPORE-FS105-CAPSTONE-PROJECT
 1 Month Timeline to build a MERN stack web app
 
-Week 1 - Idea, Wireframing, Prototyping, Setting up MongoAtlas & Firebase
+Week 1 - Idea, Wireframing, Prototyping, Setting up MongoAtlas & Firebase\n
 Week 2 - Coding begins
 Week 3 - Coding Review, Feature Review, Troubleshooting/Testing
 Week 4 - Project Polishing to ensure consistent UI/UX Design, working features
